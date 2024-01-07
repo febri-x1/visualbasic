@@ -1,0 +1,25 @@
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MSI GF63\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\bin\Debug\TugasVbMlm.exe
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\bin\Debug\TugasVbMlm.pdb
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\bin\Debug\TugasVbMlm.xml
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\ResolveAssemblyReference.cache
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.Form1.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.Form2.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.Form3.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.homeBse.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.Resources.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\TugasVbMlm.vbproj.GenerateResource.Cache
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\TugasVbMlm.exe
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\TugasVbMlm.xml
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\TugasVbMlm.pdb
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.form4.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.Form5.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.Form6.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.Form7.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.Form9.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.Form8.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.Form10.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.Form11.resources
+D:\koding\tugasAlgoMlm\TugasVbMlm\TugasVbMlm\obj\Debug\WindowsApplication1.Form12.resources
